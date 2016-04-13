@@ -1,2 +1,3 @@
 # hello-world
 New repository for getting started with Github
+I have through circumstances become a web developer for the Gun CLub that I belong to.  We have been adding more content to our website and would like to create a membership program to keep track of our membership.  Since I am starting form scratch I have lots to learn. So far I have been able to create a bootstrap static website.  Next goal is to learn more about PHP and MySQL so that I can build a database of our membership data.  Then I would like to create an online mtce page that our executive can use to maintan the membership list and finally to create and online application form that will populate the database for new members.
